@@ -7,6 +7,7 @@
 		width:80%;
 		height:450px;
 		background:#FFFFFF;
+		
 	     	}
 
 #right	{
